@@ -1,0 +1,24 @@
+@charset "UTF-8"; 
+.navbar{background-color:lightblue;
+}
+.c-container{padding-right:0px;
+padding-left:0px;}
+.text-container{max-width:1000px;}
+.front-page-text{padding-top:20px;}
+.footer{background-color: blanchedalmond;
+height:60px;
+color:black;
+font-size:.8rem;
+text-align: center;
+padding-top: 20px;}
+.control-width{max-width:1200px;}
+.card-container{padding-bottom:30px;}
+.card-footer-cy{height:60px}
+.btn-primary{background-color:transparent;
+color:black;
+border-color: black;}
+.btn-primary:hover{
+   background-color:black;
+color:white;
+border-color:black; 
+}
